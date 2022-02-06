@@ -30,9 +30,9 @@ h1,
 }
 
 .profile-image {
-    width: 9rem;
+    width: 8rem;
     /* 9 * 16 px */
-    height: 9rem;
+    height: 8rem;
     border-radius: 9999px;
     border: 0px solid rgba(128, 128, 128, 0.5);
 }
@@ -99,6 +99,13 @@ h1,
     color: var(--bs-indigo);
 }
 
+#name5{
+    margin-left: 15px;
+}
+#about5 .img-profile{
+    width: 50%;
+    height: 50%;
+}
 .footer {
     bottom: 0;
     left: 0;
